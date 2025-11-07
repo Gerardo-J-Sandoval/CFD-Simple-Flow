@@ -1,4 +1,4 @@
-# CFD-Simple-Flow
+# Subsonic and Sonic Flow Over a 2D NACA 2412 Airfoil
 
 Simple Terms Summary:  
 This projects is about air flow over a simple NASA airplane wing shape - the 2412 airfoil wing -  using the software Ansys Fluent. The airfoil shape was created by downloading plotting data from an airfoil plotter website and imported into Ansys Workbench 2025. The results of the project are air flow speeds (velocity) and pressure (force on the airplane wing area) and force coefficients of the air flow over the wing.     
