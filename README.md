@@ -15,17 +15,3 @@ Image 1. Velocity Contour at 45.6 meters/second (Mach 0.13) of Flow over 2412 Ai
 Image 2. Pressure Contour at 45.6 meters/second of Flow over 2412 Airfoil  
 <img width="1400" height="auto" alt="image" src="https://github.com/user-attachments/assets/ca3b3c71-507b-42dd-8245-e6071fedec88" />
 
-
-
--------
-### Full Paper
-
-Introduction  
-
-Methods  
-  
-Results  
-  
-Conclusion  
-  
-References   
