@@ -20,3 +20,4 @@ This project focuses on incompressible flow (subsonic) over a 2-Dimensional NACA
 
 ### <p align="center">Full Paper</p> 
 * [Link to Paper - Flow Over a 2D NACA 2412 Arifoil (Sandoval 2025)](Gerardo-Sandoval_ME-5210_CFD-Project-Final_PDF.pdf)
+* [Link to PowerPoint Slides - here]
