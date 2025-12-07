@@ -18,6 +18,6 @@ This project focuses on incompressible flow (subsonic) over a 2-Dimensional NACA
 <img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/fb19d7ee-81a6-40d2-89e2-7bcbed6e7046" />  
 *Figure 3. shows elevated turbulent kinetic energy concentrated along the upper surface and in the wake region. This indicates strong boundary layer interaction and flow separation due to shock-induced effects at high angle of attack. The wide turbulent wake suggests increased drag and unsteady flow behavior downstream.*
 
-### <p align="center">Full Paper</p> 
+### <p align="center">Full Paper and Slide Deck</p> 
 * [Link to Paper - Flow Over a 2D NACA 2412 Arifoil (Sandoval 2025)](Gerardo-Sandoval_ME-5210_CFD-Project-Final_PDF.pdf)
-* [Link to PowerPoint Slides - here]
+* [Link to PowerPoint Slides - Flow Over a 2D NACA 2412 Airfoil (Sandoval 2025)](Gerardo-Sandoval_ME-5210_CFD-Project-Final_PDF.pdf)
